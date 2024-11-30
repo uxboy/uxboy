@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/uxboy/uxboy/branch-name/path/to/image.jpg)
+![Banner](https://github.com/uxboy/uxboy/blob/main/banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ananya Maity</h1>
